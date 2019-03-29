@@ -1,6 +1,6 @@
 # 待動工中!
-# RoboYabasoDiscord@HKTRPG  V0.0.0
-# 開放原始碼的Discord骰子機器人
+# RoboYabasoTelegram@HKTRPG  V0.0.0
+# 開放原始碼的Telegram骰子機器人
 關於RoboYabaso
 ==
 RoboYabaso是一個開放源碼的line骰子機器人計畫。</br>
