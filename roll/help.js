@@ -2,7 +2,7 @@ let rply = {};
 
 function Help() {
 	rply = {
-		"text": "【Discord擲骰BOT】v0.3.4 \
+		"text": "【Telegram擲骰BOT】v0.1.0 \
 		 \n  \
 		 \n 支援基本擲骰, COC, 永遠的後日談, 黑暗世界, DX3, SW2.0 \
 		 \n 暗骰功能 在指令前打dr 結果會私訊你\
@@ -38,7 +38,7 @@ function Help() {
 \n coc7版創角：	啓動語 cc7版創角 (歲數) \
 \n coc7 成長或增長檢定：	dp (技能) (名稱) \
 \n 例）DP 80 偵查 \
-\n 其他指令請到 https://github.com/zeteticl/DiscordRollBot_HKTRPG  最底下查詢",
+\n 其他指令請到 https://github.com/hktrpg/TelegramRollBot_HKTRPG  最底下查詢",
 	};
 	return rply;
 }

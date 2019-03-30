@@ -1,7 +1,7 @@
 {
-  "name": "Zetetic",
+  "name": "zetetic",
   "version": "1.0.0",
-  "description": "Zetetic Discord Bot",
+  "description": "Zetetic Telegram Bot",
   "engines": {
     "node": "6.9.1",
     "npm": "*"
@@ -12,9 +12,10 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "telebot": "1.2.6",
+    "body-parser": "1.15.2",
     "express": "4.13.3",
-    "body-parser": "1.15.2"
+    "request": "^2.81.0",
+    "telebot": "^1.2.6"
   },
   "keywords": [
     "LeoLi",

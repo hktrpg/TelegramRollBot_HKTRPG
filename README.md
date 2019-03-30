@@ -7,14 +7,14 @@ RoboYabaso是一個開放源碼的line骰子機器人計畫。</br>
 最早由LarryLo  Retsnimle開發。</br>
   
 
-這是建立在Heroku的免費伺服器上，所以大家都可以按照下面的教程，客制化做一個自己的DiscordBot！</br>
+這是建立在Heroku的免費伺服器上，所以大家都可以按照下面的教程，客制化做一個自己的Telegram Bot！</br>
 不懂授權條款，如果使用其中的CODE的話，就把它繼續開源下去吧
 </br></br></br>
 
 試用
 ==
-RoboYabasoDiscord@HKTRPG 的Link是：</br>
-https://discordapp.com/oauth2/authorize?&client_id=544462904037081138&scope=bot&permissions=8 </br>
+RoboYabasoTelegram@HKTRPG 的Link是：</br>
+http://t.me/hktrpg_bot </br>
 
 骰組指令在最底下</br>
 
@@ -38,12 +38,12 @@ cc<= 改成 cc cc1 cc2 ccn1 ccn2。</br>
 自定啓動語。</br>
 </br></br></br>
 
-如何建立自己的Discord骰子機器人
+如何建立自己的Telegram骰子機器人
 ==
 
 準備動作：
 --
-* 先申請好Discord帳號（廢話）</br>
+* 先申請好Telegram帳號（廢話）</br>
 * 先申請好Github帳號</br>
 * 先申請好Heroku帳號</br>
 以下全部選擇用免費的服務就夠了，請不要手殘選到付費。
@@ -55,10 +55,10 @@ Step1：先把這個專案Fork回去
 把這個專案存到你的Github裡。
 </br></br></br></br>
 
-Step2：建立DiscordBot賬號
+Step2：建立TelegramBot賬號
 --
-* 到[http://discordapp.com/developers/applications/me](http://discordapp.com/developers/applications/me )登入一個Discord帳號，</br>
-點選「New Application」，按照指示註冊你的Discord Bot。</br>
+* 到[http://discordapp.com/developers/applications/me](http://discordapp.com/developers/applications/me )登入一個Telegram帳號，</br>
+點選「New Application」，按照指示註冊你的Telegram Bot。</br>
 ---
 
 * 記下那個「CLIENT ID」</br>
@@ -69,7 +69,7 @@ Step2：建立DiscordBot賬號
 
 * 在BUILD-A-BOT中點選Add Bot->Yes Do It. 接著把「Token」複製(Copy)下來</br>
 </br></br></br>
-Step3：將DiscordBot部署到Heroku
+Step3：將TelegramBot部署到Heroku
 --
 
 * 按一下下面這個按鈕</br>
@@ -125,7 +125,7 @@ https://github.com/zeteticl/TrpgLineBot-php
 </br>
 
 *2019/02/12</br>
-完成DISCORD化</br>
+完成Telegram化</br>
 </br>
 *2019/02/14</br>
 暗骰功能增加,只要在指令前加入dr 即可</br></br>
