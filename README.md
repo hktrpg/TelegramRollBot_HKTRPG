@@ -1,5 +1,5 @@
-# 待動工中!
-# RoboYabasoTelegram@HKTRPG  V0.0.0
+# 好像完成了!
+# RoboYabasoTelegram@HKTRPG  V0.1.0
 # 開放原始碼的Telegram骰子機器人
 關於RoboYabaso
 ==
